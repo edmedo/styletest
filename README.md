@@ -16,6 +16,8 @@ Create a reusable mixin called `cardGrid` which allows you to specify the maximu
 
 Basic CSS normalize is already applied, and other overrides are set in the layout.scss file
 
+Run `gulp --debug --watch --serve` and select 'Test 1'
+
 ## Usage
 
 Install node modules if they are not already installed:
