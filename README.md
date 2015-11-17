@@ -6,6 +6,8 @@
 
 ![Polaroid](http://thumb1.shutterstock.com/thumb_large/1893737/190230248/stock-vector-polaroid-photo-frame-template-isolated-on-white-background-instant-film-190230248.jpg "Polaroid")
 
+`app/styles/modules/test.01.scss`
+
 Turn the images into a grid of avatar 'polaroids' that spans the entire  container.
 
 Create a reusable mixin called `cardGrid` which allows you to specify the maximum amount of polaroids per row, and the amount of margin that separates them as a percentage.
