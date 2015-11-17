@@ -1,4 +1,4 @@
-# sasstest
+# Style & Markup Tests for Admedo
 
 This project is scaffolded by [Yeoman](http://yeoman.io). See [generator-vars-webapp](https://github.com/VARIANTE/generator-vars-webapp.git) for more details.
 
