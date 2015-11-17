@@ -1,0 +1,1856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"normal"
+			],
+			[
+				"element",
+				"angular.element"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"wrap",
+				"word-wrap"
+			],
+			[
+				"gray-dar",
+				"gray-darker"
+			],
+			[
+				"search",
+				"searchHeight"
+			],
+			[
+				"box-",
+				"border-box"
+			],
+			[
+				"hover",
+				"uk-panel-hover 	UIkit class"
+			],
+			[
+				"width-",
+				"uk-width-5-10 	UIkit class"
+			],
+			[
+				"vert",
+				"uk-vertical-align 	UIkit class"
+			],
+			[
+				"vertical",
+				"uk-vertical-align-middle 	UIkit class"
+			],
+			[
+				"marg-top",
+				"uk-margin-small-top 	UIkit class"
+			],
+			[
+				"contra",
+				"uk-contrast 	UIkit class"
+			],
+			[
+				"uk-button",
+				"uk-button-danger 	UIkit class"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"divd",
+				"uk-panel-divider 	UIkit class"
+			],
+			[
+				"text-sm",
+				"uk-text-left-small 	UIkit class"
+			],
+			[
+				"uk-text-",
+				"uk-text-primary 	UIkit class"
+			],
+			[
+				"panel",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"margin",
+				"uk-margin 	UIkit class"
+			],
+			[
+				"center",
+				"uk-text-center 	UIkit class"
+			],
+			[
+				"text-",
+				"uk-text-muted 	UIkit class"
+			],
+			[
+				"uk-panel-",
+				"uk-panel-hover 	UIkit class"
+			],
+			[
+				"uk-pa",
+				"uk-panel-divider 	UIkit class"
+			],
+			[
+				"verti",
+				"uk-vertical-align-middle 	UIkit class"
+			],
+			[
+				"align",
+				"uk-align-right 	UIkit class"
+			],
+			[
+				"uk-row",
+				"uk-form-row 	UIkit class"
+			],
+			[
+				"mar",
+				"uk-margin 	UIkit class"
+			],
+			[
+				"uk-pan",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"right",
+				"uk-align-right 	UIkit class"
+			],
+			[
+				"margin-small",
+				"uk-margin-small-top 	UIkit class"
+			],
+			[
+				"env",
+				"envFiles"
+			],
+			[
+				"run",
+				"run	AngularJS"
+			],
+			[
+				"cent",
+				"uk-container-center 	UIkit class"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius"
+			],
+			[
+				"sidebar",
+				"sidebar-height"
+			],
+			[
+				"marg",
+				"uk-margin-right 	UIkit class"
+			],
+			[
+				"cont",
+				"uk-container-center 	UIkit class"
+			],
+			[
+				"heigh",
+				"uk-height-viewport 	UIkit class"
+			],
+			[
+				"top-right",
+				"uk-position-top-right 	UIkit class"
+			],
+			[
+				"margin-sm",
+				"uk-margin-small-right 	UIkit class"
+			],
+			[
+				"margsma",
+				"uk-margin-small-right 	UIkit class"
+			],
+			[
+				"pan",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"uk-animation-sl",
+				"uk-animation-slide-left 	UIkit class"
+			],
+			[
+				"bottom-left",
+				"uk-position-bottom-left 	UIkit class"
+			],
+			[
+				"uk-but",
+				"uk-button-success 	UIkit class"
+			],
+			[
+				"bottom",
+				"uk-position-bottom 	UIkit class"
+			],
+			[
+				"fade",
+				"uk-animation-fade 	UIkit class"
+			],
+			[
+				"divid",
+				"uk-nav-divider 	UIkit class"
+			],
+			[
+				"webkit-font",
+				"webkit-font-smoothing"
+			],
+			[
+				"bold",
+				"uk-text-bold 	UIkit class"
+			],
+			[
+				"uk-wid",
+				"uk-width-3-6 	UIkit class"
+			],
+			[
+				"uk-animation-",
+				"uk-animation-slide-left 	UIkit class"
+			],
+			[
+				"anim",
+				"uk-animation-slide-top 	UIkit class"
+			],
+			[
+				"font-",
+				"webkit-font-smoothing"
+			],
+			[
+				"small",
+				"uk-text-small 	UIkit class"
+			],
+			[
+				"margin-top",
+				"uk-margin-top 	UIkit class"
+			],
+			[
+				"modal-di",
+				"uk-modal-dialog-large 	UIkit class"
+			],
+			[
+				"button",
+				"uk-button-link 	UIkit class"
+			],
+			[
+				"uk-panel-bo",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"uk-block",
+				"uk-block-secondary 	UIkit class"
+			],
+			[
+				"uk-vert",
+				"uk-vertical-align-middle 	UIkit class"
+			],
+			[
+				"vertica",
+				"uk-vertical-align-middle 	UIkit class"
+			],
+			[
+				"middle",
+				"uk-text-middle 	UIkit class"
+			],
+			[
+				"uk-margin-left",
+				"uk-margin-left 	UIkit class"
+			],
+			[
+				"uk-form-hel",
+				"uk-form-help-block 	UIkit class"
+			],
+			[
+				"uk-conten",
+				"uk-container 	UIkit class"
+			],
+			[
+				"uk-margin-sm",
+				"uk-margin-small-left 	UIkit class"
+			],
+			[
+				"uk-top-right",
+				"uk-position-top-right 	UIkit class"
+			],
+			[
+				"uk-position-bottom",
+				"uk-position-bottom-left 	UIkit class"
+			],
+			[
+				"uk-height",
+				"uk-responsive-height 	UIkit class"
+			],
+			[
+				"uk-bottom",
+				"uk-position-bottom 	UIkit class"
+			],
+			[
+				"uk-div",
+				"uk-panel-divider 	UIkit class"
+			],
+			[
+				"uk-divid",
+				"uk-panel-divider 	UIkit class"
+			],
+			[
+				"uk-width-medi",
+				"uk-width-medium-1-2 	UIkit class"
+			],
+			[
+				"uk-width-me",
+				"uk-width-medium-1-2 	UIkit class"
+			],
+			[
+				"uk-flex-",
+				"uk-flex-middle 	UIkit class"
+			],
+			[
+				"left",
+				"uk-margin-left 	UIkit class"
+			],
+			[
+				"uk-heigh",
+				"uk-height-viewport 	UIkit class"
+			],
+			[
+				"uk-verti",
+				"uk-vertical-align-bottom 	UIkit class"
+			],
+			[
+				"uk-vertical",
+				"uk-vertical-align 	UIkit class"
+			],
+			[
+				"uk-bad",
+				"uk-badge-warning 	UIkit class"
+			],
+			[
+				"uk-badge",
+				"uk-badge-success 	UIkit class"
+			],
+			[
+				"uk-bag",
+				"uk-badge-notification 	UIkit class"
+			],
+			[
+				"uk-align-r",
+				"uk-icon-align-right 	UIkit class"
+			],
+			[
+				"uk-align-",
+				"uk-align-medium-right 	UIkit class"
+			],
+			[
+				"uk-hover",
+				"uk-panel-box-secondary-hover 	UIkit class"
+			],
+			[
+				"uk-success",
+				"uk-text-success 	UIkit class"
+			],
+			[
+				"uk-block-",
+				"uk-block-default 	UIkit class"
+			],
+			[
+				"uk-panel",
+				"uk-panel-hover 	UIkit class"
+			],
+			[
+				"re",
+				"uk-responsive-width 	UIkit class"
+			],
+			[
+				"uk-stack",
+				"uk-form-stacked 	UIkit class"
+			],
+			[
+				"uk-right",
+				"uk-align-right 	UIkit class"
+			],
+			[
+				"webfon",
+				"webkit-font-smoothing"
+			],
+			[
+				"webkit-fon",
+				"webkit-font-smoothing"
+			],
+			[
+				"uk-wdi",
+				"uk-width-1-1 	UIkit class"
+			],
+			[
+				"uk-buttom",
+				"uk-button-small 	UIkit class"
+			],
+			[
+				"uk-button-",
+				"uk-button-group 	UIkit class"
+			],
+			[
+				"data-uk",
+				"data-uk-check-display 	 UIkit uk-data"
+			],
+			[
+				"data",
+				"data-uk-observe 	 UIkit uk-data"
+			],
+			[
+				"data-form",
+				"data-uk-form-select 	 UIkit uk-data"
+			],
+			[
+				"uk-hov",
+				"uk-panel-hover 	UIkit class"
+			],
+			[
+				"uk-icon-",
+				"uk-icon-medium 	UIkit class"
+			],
+			[
+				"uk-margin",
+				"uk-margin-small-bottom 	UIkit class"
+			],
+			[
+				"uk-bold",
+				"uk-text-bold 	UIkit class"
+			],
+			[
+				"uk-",
+				"uk-h5 	UIkit class"
+			],
+			[
+				"uk-acr",
+				"uk-accordion-title 	UIkit class"
+			],
+			[
+				"uk-acco",
+				"uk-accordion-content 	UIkit class"
+			],
+			[
+				"width-1",
+				"uk-width-1-2 	UIkit class"
+			],
+			[
+				"uk-text",
+				"uk-text-contrast 	UIkit class"
+			],
+			[
+				"uk-cente",
+				"uk-text-center 	UIkit class"
+			],
+			[
+				"uk-panel-b",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"uk-bl",
+				"uk-button-large 	UIkit class"
+			],
+			[
+				"uk-blo",
+				"uk-block-primary 	UIkit class"
+			],
+			[
+				"uk-wdith-",
+				"uk-width-2-4 	UIkit class"
+			],
+			[
+				"uk-margin-bottom",
+				"uk-margin-large-bottom 	UIkit class"
+			],
+			[
+				"uk-button-p",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"uk-form-la",
+				"uk-form-label 	UIkit class"
+			],
+			[
+				"uk-form",
+				"uk-form-large 	UIkit class"
+			],
+			[
+				"uk-middle",
+				"uk-flex-wrap-middle 	UIkit class"
+			],
+			[
+				"uk-midd",
+				"uk-table-middle 	UIkit class"
+			],
+			[
+				"uk-bu",
+				"uk-button-small 	UIkit class"
+			],
+			[
+				"uk-butt",
+				"uk-button-mini 	UIkit class"
+			],
+			[
+				"uk-panel-box-",
+				"uk-panel-box-primary-hover 	UIkit class"
+			],
+			[
+				"alis",
+				"antialiased"
+			],
+			[
+				"time",
+				"$timeout	AngularJS"
+			],
+			[
+				"tue",
+				"tue"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "markmon",
+		"selected_items":
+		[
+			[
+				"markmon",
+				"Markmon launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"evernote",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown pr",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Sass",
+				"SassBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Linter"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 290.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/edgiles/www/sasstest"
+	],
+	"file_history":
+	[
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/base/_fonts.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/components/_components.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/ht-top-nav.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/notification.module.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/components/_progress-bar.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/search/searchBox/searchBox.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/index.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/shell.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/specs/shared/auth.service.spec.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/core/app.module.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/index.tmpl",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/login/login.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/base/_variables.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_navbar.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/ht-top-nav.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/shared/auth.service.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/test-helpers/services.mock.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/specs/shared/currentUser.service.spec.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/specs/login/login.controller.spec.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/login/passwordResetStep2.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_login.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/campaign/campaignList/campaignList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/customTable/customTable.controller.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/loaderWidget/loaderWidget.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/customTable/customTable.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/components/_status-indicator.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/core/constants.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/shell.controller.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/base/_animations.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/components/_loader.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/constant.tpl.ejs",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/ht-top-nav.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/ht-sidebar.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/customTable/customTable.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/progressCell/progressCell.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/bower_components/angular-spinkit/build/angular-spinkit.min.css",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/moreCell/moreCell.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/tabset.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/core/bootstrap/bootstrap.controller.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/core/bootstrap/bootstrap.module.js",
+		"/Users/edgiles/www/bullseyeUI-fork/bower.json",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/base/_variables.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/campaign/campaignList/campaignCreation.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/components/_custom-table.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/components/_campaign-list.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/components/_navbar.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/account/accountList/accountList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/search/search.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/dashboard/dashboard.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/tracker/trackerList/trackerList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/vendorSegment/vendorSegmentList/vendorSegmentList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/dataVendor/dataVendorList/dataVendorList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/invoice/invoiceList/invoiceList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/deliveryInstruction/deliveryInstructionList/deliveryInstructionList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/asset/assetList/assetList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/user/userList/userList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/finance/financeList/financeList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/creativeSet/creativeSetList/creativeSetList.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/reporting/reporting.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/campaign/campaignCreate/campaignCreate.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/statusIndicator/statusIndicator.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/lineItemSidebar/lineItemSidebar.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout/progressCell/progressCell.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/specs/layout/statusIndicator/statusIndicator.directive.spec.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/specs/layout/progressCell/progressCell.directive.spec.js",
+		"/Users/edgiles/www/bullseyeUI-fork/bower_components/angular-spinkit/src/angular-spinkit.css",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/shared/modalHandler.directive.js",
+		"/Users/edgiles/www/bullseyeUI-fork/bower_components/angular-bootstrap/ui-bootstrap-tpls.js",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/app/shared/modal.service.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/bullseye-base.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/search/searchBox/searchBox.html.orig",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/shell.html",
+		"/Users/edgiles/www/bullseyeUI-fork/bower_components/angular-spinkit/src/templates/circleSpinner.html",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/base/_loader.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/styles.scss",
+		"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/base/_base.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/customTable/customTable.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/campaign/campaignList/campaignList.controller.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_custom-table.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/campaign/campaignList/campaignList.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_campaign-list.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/campaign/campaignList/campaignCreation.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/base/_base.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/bullseye-variables.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_progress-bar.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/audience/audience.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/moreCell/moreCell.directive.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/specs/layout/customTable/customTable.directive.spec.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/progressCell/progressCell.directive.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/campaign/campaign.module.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/campaign/campaign.service.js",
+		"/Users/edgiles/www/bullseyeUI/.tmp/styles.css",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/customTable/customTable.controller.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/progBar/progBar.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/progBar/progBar.directive.js",
+		"/Users/edgiles/www/bullseyeUI/bower_components/animate-sass/helpers/_base.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/utils/genericUtils/currencyClass.filter.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/cookiePolicy/policyPopup.directive.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/finance/finance.service.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/statusIndicator/statusIndicator.directive.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/statusIndicator/statusIndicator.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/asset/asset.module.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/lineItem/lineItemMain.html",
+		"/Users/edgiles/www/bullseyeUI/bower.json",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/asset/assetList/assetList.controller.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/asset/assetList/assetList.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/core/app.module.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/login/passwordResetStep2.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/base/_bootstrap-custom.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/styles.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/login/passwordResetStep1.html",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/login/login.controller.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/login/login.module.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_status-indicator.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_components.scss",
+		"/Users/edgiles/Documents/tripwire.md",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/base/_fonts.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/customTable/compile.directive.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/customTable/customTable.directive.js",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/layout/customTable/customTable.css",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/vendor/_tree-selector.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_loader.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/base/_animations.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_lineitem.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_info-panel.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_cookies.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/styles/components/_bug-report.scss",
+		"/Users/edgiles/www/bullseyeUI/src/client/app/cookiePolicy/cookiePolicy.module.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/app",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/styles",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/app",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/app",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/app/layout",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/app",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/styles",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/styles/base",
+			"/Users/edgiles/www/bullseyeUI-fork/src",
+			"/Users/edgiles/www/bullseyeUI-fork/bower_components",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/styles",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/app",
+			"/Users/edgiles/www/bullseyeUI-fork/src",
+			"/Users/edgiles/www/bullseyeUI-fork",
+			"/Users/edgiles/www/bullseyeUI-fork/config",
+			"/Users/edgiles/www/bullseyeUI-fork/src",
+			"/Users/edgiles/www/bullseyeUI-fork/src/client/app",
+			"/Users/edgiles/www/bullseyeUI-fork",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/bower_components",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/src/client",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/bower_components",
+			"/Users/edgiles/www/bullseyeUI/src/client/styles",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/styles",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/styles/base",
+			"/Users/edgiles/www/bullseyeUI/src/client/styles/components",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs",
+			"/Users/edgiles/www/bullseyeUI/src/client/test-helpers",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs/shared",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs",
+			"/Users/edgiles/www/bullseyeUI/src/client/styles",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs",
+			"/Users/edgiles/www/bullseyeUI",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/src/client",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/core",
+			"/Users/edgiles/www/bullseyeUI",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/lineItem",
+			"/Users/edgiles/www/bullseyeUI/bower_components/uikit/css/components",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/campaignList",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/lineItem",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/lineItem/elements",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"<project>",
+			"/Users/edgiles/www/bullseyeUI/src",
+			"/Users/edgiles/www/bullseyeUI",
+			"/Users/edgiles/www/bullseyeUI/bower_components",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/layout",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/lineItem",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs/lineItem",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/lineItem/elements",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Users/edgiles/www/bullseyeUI/src/client/app/lineItem",
+			"/Users/edgiles/www/bullseyeUI/src/client/specs",
+			"/Users/edgiles/www/bullseyeUI/src/client/app",
+			"/Volumes/admedo/dev.app.admedo/public/js/admedo",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/public/js/admedo",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/public/angular",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/app",
+			"/Volumes/admedo/dev.app.admedo/public",
+			"/Volumes/admedo/dev.app.admedo/app",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/app/controllers",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/public/js/admedo",
+			"/Volumes/admedo/dev.app.admedo/app/views/admin",
+			"/Volumes/admedo/dev.app.admedo/public/js/admedo",
+			"/Volumes/admedo/dev.app.admedo/app/models",
+			"/Volumes/admedo/dev.app.admedo/app/controllers",
+			"/Volumes/admedo/dev.app.admedo/app/models",
+			"/Volumes/admedo/dev.app.admedo/app/controllers",
+			"/Volumes/admedo/dev.app.admedo/app/models",
+			"/Volumes/admedo/dev.app.admedo/app/controllers",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/app",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/app",
+			"/Volumes/admedo/dev.app.admedo/public",
+			"/Volumes/admedo/dev.app.admedo/app",
+			"/Volumes/admedo/dev.app.admedo/app/controllers",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/app/lang",
+			"/Volumes/admedo/dev.app.admedo/app/views/ipon",
+			"/Volumes/admedo/dev.app.admedo",
+			"/Volumes/admedo/dev.app.admedo/public/js",
+			"/Volumes/admedo/dev.app.admedo/app/views",
+			"/Volumes/admedo/dev.app.admedo/app/storage",
+			"/Volumes/admedo/dev.app.admedo/app/lang",
+			"/Volumes/admedo/dev.app.admedo/app/classes",
+			"/Volumes/admedo/dev.app.admedo/app/controllers",
+			"/Volumes/admedo/dev.app.admedo/app/models",
+			"/Volumes/admedo/dev.app.admedo/app/config",
+			"/Volumes/admedo/dev.app.admedo/app/models"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dropdown-toggle",
+			"limitResult track by $index\"",
+			"pull-right",
+			"bg-info",
+			"h4",
+			"font-family",
+			"notify",
+			"notification",
+			"notific",
+			"activated",
+			"status",
+			"gli",
+			"dropdown",
+			"brand-dark",
+			"navbar",
+			"nav",
+			"data",
+			"login",
+			"stateService",
+			"currentuser",
+			"btn",
+			"secondary",
+			"button",
+			"page-splash",
+			"splash-page",
+			"navline",
+			"dict.appTitle",
+			"BullseyeUI",
+			"vm.brand",
+			"navline",
+			"intercept",
+			"fade",
+			"navbar",
+			"\n        ",
+			"width",
+			"pagination",
+			"pagination-sm",
+			"pagination-count",
+			"select",
+			"line-height",
+			"em",
+			"rem",
+			"font-size",
+			"$font-size-base",
+			"tooltip",
+			"popover",
+			"popover-popup",
+			"$tooltip",
+			"typeahead",
+			"typeaheadParser",
+			"pagination",
+			"default",
+			"();\n",
+			"dropdown-menu-right",
+			"dropdown",
+			"dropdown-menu",
+			"DropdownController",
+			"dropdown-toggle",
+			"$modal",
+			"dropdown-toggle",
+			"DropdownController",
+			"dropdown-toggle",
+			"$modal",
+			"spin",
+			"doubleBounceSpinner",
+			"dropdown",
+			"backg",
+			"font-size",
+			"brand",
+			"navbar",
+			"outline",
+			"vm.model.currency",
+			"\"vm.model.currency",
+			"select",
+			"dark-box",
+			"container",
+			"actionTemplate",
+			"page-header",
+			"prog-bar",
+			"progBar",
+			"childre",
+			"container",
+			"showActions",
+			"row.showActions",
+			"actionTemplate",
+			"progressBar",
+			"popover",
+			"progress",
+			"progr",
+			"ui.bootstrap",
+			"progre",
+			"statusIndicator",
+			"container",
+			"row.",
+			"actionTemplate",
+			"activated",
+			".pseudo-checkbox",
+			".tags-checkbox",
+			".pseudo-checkbox",
+			"break",
+			"container",
+			"table",
+			"custom-table",
+			"$header-height",
+			"header-height",
+			"division-heading",
+			"uk-form",
+			"heading-span",
+			"}\n",
+			"modal",
+			"input",
+			"report a bug",
+			"scroll",
+			"40px",
+			"focus",
+			"box-sizing",
+			"-box",
+			"box-",
+			"input",
+			"sinon",
+			"stub",
+			"cookie",
+			"</a>",
+			"a",
+			"</a>",
+			"{{result.name}}",
+			"result",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"limitResult track by $index\" class=\"result-set\"",
+			"view-all",
+			"search-section-heading",
+			"h5",
+			"brand-secondary",
+			"uib-dropdown-menu",
+			"uib-dropdown-toggle",
+			"$uibModal",
+			"quick-add",
+			"progress-cell",
+			"progressCell",
+			"progBar",
+			"progressBar",
+			"",
+			"../fonts/proximanova/",
+			"../../../bower_components",
+			"/assets/stylesheets",
+			"assets/stylesheets",
+			"Tracker",
+			"tracker",
+			"form-error",
+			"icon_error-circle",
+			"text-error",
+			"icon_error-triangle_alt",
+			"current",
+			"000",
+			"'",
+			"lineItemFlightTimesForm",
+			"accordion",
+			"uk-width-1-2",
+			"div>",
+			"span>",
+			"",
+			".uk-input-group",
+			"<label class=\"uk-form-label\"",
+			"class=\"uk-form-row\"",
+			"",
+			"'",
+			".daypartingWidget",
+			"'",
+			"targetingSspForm",
+			"",
+			"currencyCode",
+			"currencyOnly",
+			"$scope",
+			"LineItemName",
+			"validationForm",
+			"p",
+			"flight_start_at",
+			"budget_amount",
+			"",
+			"'",
+			"lineItemData",
+			"dev.app.admedo",
+			"",
+			"'",
+			"app-staging",
+			"app.admedo.com",
+			"/etc/ssl/admedo_certs/",
+			"/var/log/apache2/",
+			"/var/www/",
+			"CustomLog /var/log/apache2/",
+			"ErrorLog /var/log/apache2/",
+			"/var/www/",
+			"$palette_2",
+			"addCreditForm",
+			"credit",
+			"currency",
+			"arrow",
+			"-",
+			"signup_form",
+			"formData.credit_card",
+			"2",
+			"true",
+			"currency:currencySymbol(cart.currency):2",
+			".table-campaigns",
+			"(all 1s)",
+			"(all 1s);",
+			"transition",
+			"",
+			"//",
+			"http://d3b9cow1hxhyv3.cloudfront.net/live_creatives/01_nlcreatives/",
+			"<?=$knownAs?>",
+			"<?=$platformURL?>",
+			"<?=$contactEmail?>",
+			"<input placeholder=\"\" class=\"wlColorBox\" ",
+			"<input placeholder=\"\" class=\"wlColorBox\"",
+			"",
+			"url('#{$images_path}colorpicker/",
+			"../images",
+			"",
+			"PRODUCT_ID",
+			"IMAGELINK_1",
+			"DEFAULT_IMAGE",
+			"CLICKTHROUGH_URL",
+			"",
+			"PRODUCTID",
+			"https",
+			"",
+			"EUR",
+			"USD",
+			"",
+			"jQuery.inArray",
+			"echo -e",
+			".$field->id.",
+			"banners[b].clicktags",
+			"banners[b]",
+			"//",
+			"<?=$butBgCol?>",
+			"<?=$bgCol?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"default_dir": "/Users/edgiles/www/bullseyeUI-fork",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "sasstest.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"login",
+				"bullseyeUI/src/client/app/login/login.html"
+			],
+			[
+				"customtab",
+				"bullseyeUI-fork/src/client/app/layout/customTable/customTable.html"
+			],
+			[
+				"progresscell",
+				"bullseyeUI-fork/src/client/specs/layout/progressCell/progressCell.directive.spec.js"
+			],
+			[
+				"_camp",
+				"src/client/styles/components/_campaign-list.scss"
+			],
+			[
+				"_base",
+				"src/client/styles/base/_base.scss"
+			],
+			[
+				"statusind",
+				"src/client/app/layout/statusIndicator/statusIndicator.directive.js"
+			],
+			[
+				"statusini",
+				"src/client/app/layout/statusIndicator/statusIndicator.directive.js"
+			],
+			[
+				"statusindi",
+				"src/client/app/layout/statusIndicator/statusIndicator.html"
+			],
+			[
+				"indicat",
+				"src/client/app/layout/statusIndicator/statusIndicator.html"
+			],
+			[
+				"searchbox",
+				"src/client/app/search/searchBox/searchBox.html"
+			],
+			[
+				"campaign",
+				"src/client/app/campaignList/campaignList.html"
+			],
+			[
+				"campaignlist",
+				"src/client/app/campaignList/campaignList.html"
+			],
+			[
+				"_susy",
+				"src/client/styles/modules/_susy.scss"
+			],
+			[
+				"_navbar",
+				"src/client/styles/partials/_navbar.scss"
+			],
+			[
+				"creativemana",
+				"src/client/app/creative/creativeManager.controller.js"
+			],
+			[
+				"_sidebar",
+				"src/client/styles/partials/_sidebar.scss"
+			],
+			[
+				"_buttons",
+				"src/client/styles/partials/_buttons.scss"
+			],
+			[
+				"typesett",
+				"bower_components/typesettings/_typesettings.scss"
+			],
+			[
+				"colors.sc",
+				"src/client/styles/modules/_colors.scss"
+			],
+			[
+				"index.html",
+				"src/client/index.html"
+			],
+			[
+				"campaignlist.ht",
+				"src/client/app/campaignList/campaignList.html"
+			],
+			[
+				"campaignlistcontro",
+				"src/client/app/campaignList/campaignList.controller.js"
+			],
+			[
+				"worflow",
+				"src/client/specs/shared/workflow.service.spec.js"
+			],
+			[
+				"lineitemsidebar.spec",
+				"src/client/specs/lineItemSidebar/lineItemSidebar.directive.spec.js"
+			],
+			[
+				"lineitemsidebar.sp",
+				"src/client/specs/lineItemSidebar/lineItemSidebar.directive.spec.js"
+			],
+			[
+				"lineitemside",
+				"src/client/app/lineItemSidebar/lineItemSidebar.html"
+			],
+			[
+				"lineitemssidebar",
+				"src/client/app/lineItemSidebar/lineItemSidebar.controller.js"
+			],
+			[
+				"sidebar",
+				"report/coverage/report-html/layout/sidebar.controller.js.html"
+			],
+			[
+				"targetingui.ser",
+				"src/client/specs/lineItem/services/targetingUi.service.spec.js"
+			],
+			[
+				"tagetingui.se",
+				"src/client/app/lineItem/services/targetingUI.service.js"
+			],
+			[
+				"bullseye-",
+				"src/client/styles/bullseye-base.scss"
+			],
+			[
+				"lineitemsidebar",
+				"src/client/app/lineItemSidebar/lineItemSidebar.html"
+			],
+			[
+				"lineitemsidebar.con",
+				"src/client/app/lineItemSidebar/lineItemSidebar.controller.js"
+			],
+			[
+				"dayparting",
+				"src/client/app/lineItem/elements/targetingDayparting/targetingDayparting.directive.js"
+			],
+			[
+				"daypartin",
+				"src/client/app/lineItem/elements/targetingDayparting/targetingDayparting.html"
+			],
+			[
+				"lineitemupdate.",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"notification.modu",
+				"src/client/app/layout/notification.module.js"
+			],
+			[
+				"lineitemsidebar.directive.sp",
+				"src/client/specs/lineItemSidebar/lineItemSidebar.directive.spec.js"
+			],
+			[
+				"lineitemsidebar.direc",
+				"src/client/app/lineItemSidebar/lineItemSidebar.directive.js"
+			],
+			[
+				"lineitemsid",
+				"src/client/app/lineItemSidebar/lineItemSidebar.html"
+			],
+			[
+				"lineitemupdate.c",
+				"src/client/app/lineItem/lineItemUpdate.controller.js"
+			],
+			[
+				"campaigncre",
+				"src/client/app/campaignList/campaignList.controller.js"
+			],
+			[
+				"top",
+				"src/client/app/layout/ht-top-nav.html"
+			],
+			[
+				"summar",
+				"src/client/app/layout/summary-sidebar.html"
+			],
+			[
+				"daypart",
+				"src/client/app/lineItem/elements/targetingDayparting/targetingDayparting.html"
+			],
+			[
+				"daypa",
+				"src/client/app/lineItem/elements/targetingDayparting/targetingDayparting.controller.js"
+			],
+			[
+				"lineitemupdate",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"dayparting.con",
+				"src/client/app/lineItem/elements/targetingDayparting/targetingDayparting.controller.js"
+			],
+			[
+				"daypatin",
+				"src/client/app/lineItem/elements/targetingDayparting/targetingDayparting.controller.js"
+			],
+			[
+				"dev",
+				"src/client/config/dev.config.json"
+			],
+			[
+				"lineitem",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"frequenc",
+				"src/client/app/lineItem/elements/targetingFrequencyCap/targetingFrequencyCap.html"
+			],
+			[
+				"flighttimes.html",
+				"src/client/app/lineItem/elements/lineItemFlightTimes/lineItemFlightTimes.html"
+			],
+			[
+				"lineitemupdate.ht",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"lineitemupd",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"linitemupdate",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"multiselect",
+				"src/client/app/lineItem/elements/targetingMultiselect/targetingMultiselect.html"
+			],
+			[
+				"sidebar.cont",
+				"src/client/app/layout/sidebar.controller.js"
+			],
+			[
+				"targetingbuilder",
+				"src/client/specs/lineItem/targetingBuilder.directive.spec.js"
+			],
+			[
+				"budget",
+				"src/client/app/lineItem/elements/lineItemBudget/lineItemBudget.html"
+			],
+			[
+				"lineitemupdate.cont",
+				"src/client/app/lineItem/lineItemUpdate.controller.js"
+			],
+			[
+				"app.mod",
+				"src/client/app/core/app.module.js"
+			],
+			[
+				"campaignlist.cont",
+				"src/client/app/campaignList/campaignList.controller.js"
+			],
+			[
+				"dev.config",
+				"src/client/config/dev.config.json"
+			],
+			[
+				"lineitemupdate.contr",
+				"src/client/app/lineItem/lineItemUpdate.controller.js"
+			],
+			[
+				"campaignslist.con",
+				"src/client/app/campaignList/campaignList.controller.js"
+			],
+			[
+				"campaigncreate",
+				"src/client/app/campaignList/campaignCreate.html"
+			],
+			[
+				"dev.",
+				"src/client/config/dev.config.json"
+			],
+			[
+				"lineitemupda",
+				"src/client/app/lineItem/lineItemUpdate.controller.js"
+			],
+			[
+				"lineitemup",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"variables",
+				"src/client/styles/bullseye-variables.scss"
+			],
+			[
+				"dropdown.sc",
+				"bower_components/uikit/scss/core/dropdown.scss"
+			],
+			[
+				"update",
+				"src/client/app/lineItem/lineItemUpdate.controller.js"
+			],
+			[
+				"configt",
+				"node_modules/karma/node_modules/log4js/test/configuration-test.js"
+			],
+			[
+				"config",
+				"node_modules/browser-sync/lib/config.js"
+			],
+			[
+				"targetingui",
+				"src/client/app/lineItem/services/targetingUI.service.js"
+			],
+			[
+				"cmapaignlist",
+				"src/client/app/campaignList/campaignList.html"
+			],
+			[
+				"summa",
+				"src/client/app/layout/summary-sidebar.html"
+			],
+			[
+				"logger",
+				"node_modules/browser-sync/lib/logger.js"
+			],
+			[
+				"updatecon",
+				"src/client/app/lineItem/lineItemUpdate.controller.js"
+			],
+			[
+				"summ",
+				"src/client/app/layout/summary-sidebar.html"
+			],
+			[
+				"top-nav",
+				"src/client/app/layout/ht-top-nav.html"
+			],
+			[
+				"shell",
+				"src/client/app/layout/shell.html"
+			],
+			[
+				"campaignl",
+				"src/client/app/campaignList/campaignList.html"
+			],
+			[
+				"mixins",
+				"src/client/styles/bullseye-mixins.scss"
+			],
+			[
+				"index.tm",
+				"src/client/index.tmpl"
+			],
+			[
+				"index.t",
+				"src/client/index.tmpl"
+			],
+			[
+				"side",
+				"src/client/app/layout/summary-sidebar.html"
+			],
+			[
+				"campaigns",
+				"src/client/app/campaignList/campaignList.html"
+			],
+			[
+				"lineitbudg",
+				"src/client/app/lineItem/elements/lineItemBudget/lineItemBudget.html"
+			],
+			[
+				"lineupdate",
+				"src/client/app/lineItem/lineItemUpdate.html"
+			],
+			[
+				"campaign.serve",
+				"src/client/specs/campaign/campaign.service.spec.js"
+			],
+			[
+				"dayparts.",
+				"bower_components/jquery.dayparts/js/jquery.dayparts.js"
+			],
+			[
+				"daypar",
+				"bower_components/jquery.dayparts/js/jquery.dayparts.js"
+			],
+			[
+				"targeting.serv",
+				"src/client/specs/lineItem/services/targeting.service.spec.js"
+			],
+			[
+				"numberon",
+				"src/client/app/lineItem/elements/lineItemBudget/numbersOnly.directive.js"
+			],
+			[
+				"lineitbudget.dir",
+				"src/client/app/lineItem/elements/lineItemBudget/lineItemBudget.directive.js"
+			],
+			[
+				"create.controller.sp",
+				"src/client/specs/lineItem/lineItemCreate.controller.spec.js"
+			],
+			[
+				"budget.cont",
+				"src/client/app/lineItem/elements/lineItemBudget/lineItemBudget.controller.js"
+			],
+			[
+				"lineitemcrea",
+				"src/client/app/lineItem/lineItemCreate.html"
+			],
+			[
+				"controller.spec",
+				"src/client/app/lineitemslist/lineItemsList.controller.spec.js"
+			],
+			[
+				".spec",
+				"src/client/specs/layout/sidebar.controller.spec.js"
+			],
+			[
+				"lineitem.service.spec",
+				"src/client/specs/lineItem/lineItem.service.spec.js"
+			],
+			[
+				"service.spec",
+				"src/client/specs/lineItem/lineItem.service.spec.js"
+			],
+			[
+				"lineitem.controller.spec",
+				"src/client/specs/lineItem/lineItem.controller.spec.js"
+			],
+			[
+				"lineitemflight",
+				"src/client/app/lineItem/elements/lineItemFlightTimes/lineItemFlightTimes.html"
+			],
+			[
+				"lineitemname",
+				"src/client/app/lineItem/elements/lineItemName/lineItemName.html"
+			],
+			[
+				"lineitembdg",
+				"src/client/app/lineItem/elements/lineItemBudget/lineItemBudget.html"
+			],
+			[
+				"gulpfil",
+				"gulpfile.js"
+			],
+			[
+				"gulp.js",
+				"gulp.config.js"
+			],
+			[
+				"gulp.conf",
+				"gulp.config.js"
+			],
+			[
+				"lineitemname.controller.js",
+				"src/client/app/lineItem/elements/lineItemName/lineItemName.controller.js"
+			],
+			[
+				"genericutils.pro",
+				"src/client/app/utils/genericUtils/genericUtils.provider.js"
+			],
+			[
+				"genericutils",
+				"src/client/app/utils/genericUtils/genericUtils.module.js"
+			],
+			[
+				"lineitem.cont",
+				"src/client/specs/lineItem/lineItem.controller.spec.js"
+			],
+			[
+				"lineitem.serv",
+				"src/client/app/lineItem/lineItem.service.js"
+			],
+			[
+				"lineitem.con",
+				"src/client/app/lineItem/lineItem.controller.js"
+			],
+			[
+				"admincontroller",
+				"app/controllers/AdminController.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"header.php",
+				"app/views/shared/header.php"
+			],
+			[
+				"colors",
+				"public/css/sass/colors.scss"
+			],
+			[
+				"rep",
+				"app/config/reportsColumns.php"
+			],
+			[
+				"reportscontroller",
+				"app/controllers/ReportsController.php"
+			],
+			[
+				"reports",
+				"app/views/reports/index.php"
+			],
+			[
+				"reportscontoller",
+				"app/controllers/ReportsController.php"
+			],
+			[
+				"subscription",
+				"app/models/Subscription.php"
+			],
+			[
+				"creatives",
+				"app/views/admin/creatives.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

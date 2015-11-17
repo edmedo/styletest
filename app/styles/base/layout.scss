@@ -1,0 +1,29 @@
+/**
+ *  sasstest
+ *  (c) Admedo <ed@admedo.com>
+ */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    background-color: #565454;
+    font: {
+        family: sans-serif;
+        size: 14px;
+    }
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.container {
+    margin: 2rem;
+}
